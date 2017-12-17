@@ -1,0 +1,461 @@
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:02:16.437Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T00:02:16.438Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:02:43.281Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T00:02:43.282Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:05:13.126Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T00:05:13.127Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:05:15.189Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T00:05:15.189Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:05:31.016Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:05:31.474Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T00:05:31.475Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:05:42.477Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T00:05:42.477Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:06:38.495Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T00:06:38.495Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:06:41.136Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T00:06:41.137Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:06:45.947Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T00:06:45.948Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:06:47.983Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T00:06:47.984Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:08:14.190Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T00:08:14.191Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:08:47.807Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:08:48.247Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T00:08:48.247Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:11:32.060Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T00:11:32.060Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:14:11.839Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:32:33.092Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T00:32:33.092Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:35:32.297Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T00:35:32.298Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:35:50.121Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T00:35:50.122Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:36:35.424Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T00:36:35.424Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:38:13.485Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T00:38:13.486Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:38:13.717Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T00:38:13.718Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:43:34.764Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T00:43:34.765Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:43:56.908Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T00:43:56.908Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:44:24.302Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T00:44:24.303Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:45:01.909Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T00:45:01.910Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:45:58.655Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T00:45:58.656Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:46:14.011Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T00:46:14.012Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:46:20.755Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T00:46:20.756Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:46:44.444Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T00:46:44.445Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:47:11.750Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T00:47:11.750Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:49:04.349Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T00:49:04.349Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:49:29.149Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T00:49:29.150Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T00:49:53.618Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T00:49:53.619Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T01:12:40.782Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T01:12:40.782Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T01:12:51.309Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T01:12:51.309Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T01:13:10.677Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T01:13:10.677Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T01:13:44.184Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T01:13:44.184Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T01:14:07.921Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T01:14:07.922Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T01:14:55.019Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T01:14:55.019Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T01:14:59.114Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T01:15:01.263Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-05T01:17:52.261Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-05T01:17:52.963Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-05T01:17:52.975Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-05T01:17:53.022Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T01:18:56.164Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T01:18:56.716Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T01:18:56.717Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T01:19:08.991Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T01:19:08.991Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T01:27:22.870Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T01:27:42.233Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T01:27:42.686Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T01:27:42.686Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T01:43:01.858Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T02:30:29.590Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T02:30:30.063Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T02:30:30.064Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T02:33:03.460Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-12-05T02:33:03.461Z"}
+{"level":"error","message":"ValidationError: password: Path `password` is required., email: Path `email` is required., lastName: Path `lastName` is required., firstName: Path `firstName` is required.\n    at MongooseError.ValidationError (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/error/validation.js:28:11)\n    at model.Document.invalidate (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/document.js:1636:32)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/document.js:1508:17\n    at validate (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/schematype.js:760:7)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/schematype.js:805:11\n    at Array.forEach (native)\n    at SchemaString.SchemaType.doValidate (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/schematype.js:765:19)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/document.js:1506:9\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)\nFrom previous event:\n    at model.wrappedPointCut [as save] (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/services/model/applyHooks.js:131:23)\n    at /Users/jackson/Desktop/Classcode/server/app/controllers/users.js:53:10\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:47:12)\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:317:13)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:275:10)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:635:15\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:260:14)\n    at Function.handle (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:174:3)","timestamp":"2017-12-05T02:33:03.482Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T02:36:01.523Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T02:36:01.523Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T03:12:20.474Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T03:12:20.474Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T03:12:29.027Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-05T03:30:54.634Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-05T03:30:55.339Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-05T03:30:55.353Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-05T03:30:55.388Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T03:32:22.877Z"}
+{"level":"error","message":"","timestamp":"2017-12-05T03:32:22.955Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T03:33:08.683Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-12-05T03:33:08.685Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T03:33:24.842Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T03:33:25.335Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T03:33:25.336Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T03:33:58.590Z"}
+{"level":"verbose","message":"Create a ToDo","timestamp":"2017-12-05T03:33:58.592Z"}
+{"level":"error","message":"WriteError({\"code\":11000,\"index\":0,\"errmsg\":\"E11000 duplicate key error collection: todo-dev.todos index: description_1 dup key: { : \\\"aaaa\\\" }\",\"op\":{\"userId\":\"5a261374e66c2a474630108f\",\"todo\":\"aaa\",\"description\":\"aaaa\",\"priority\":\"Medium\",\"_id\":\"5a2613a6e66c2a4746301090\",\"completed\":false,\"datedue\":\"2017-12-05T03:33:58.592Z\",\"dateCreated\":\"2017-12-05T03:33:58.592Z\",\"__v\":0}})\n    at Function.MongoError.create (/Users/jackson/Desktop/Classcode/server/node_modules/mongodb-core/lib/error.js:31:11)\n    at toError (/Users/jackson/Desktop/Classcode/server/node_modules/mongodb/lib/utils.js:139:22)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/mongodb/lib/collection.js:668:23\n    at handleCallback (/Users/jackson/Desktop/Classcode/server/node_modules/mongodb/lib/utils.js:120:56)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/mongodb/lib/bulk/unordered.js:465:9\n    at handleCallback (/Users/jackson/Desktop/Classcode/server/node_modules/mongodb/lib/utils.js:120:56)\n    at resultHandler (/Users/jackson/Desktop/Classcode/server/node_modules/mongodb/lib/bulk/unordered.js:413:5)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/mongodb-core/lib/connection/pool.js:469:18\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)\nFrom previous event:\n    at model.wrappedPointCut [as save] (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/services/model/applyHooks.js:131:23)\n    at /Users/jackson/Desktop/Classcode/server/app/controllers/todos.js:73:13\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:47:12)\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:317:13)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:275:10)\n    at urlencodedParser (/Users/jackson/Desktop/Classcode/server/node_modules/body-parser/lib/types/urlencoded.js:82:7)\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:317:13)","timestamp":"2017-12-05T03:33:58.607Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T03:33:58.622Z"}
+{"level":"verbose","message":"Upload file for todo undefined and 5a261374e66c2a474630108f","timestamp":"2017-12-05T03:33:58.647Z"}
+{"level":"error","message":"CastError: Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"todos\"\n    at MongooseError.CastError (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/error/cast.js:27:11)\n    at ObjectId.cast (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/schema/objectid.js:158:13)\n    at ObjectId.SchemaType._castForQuery (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/schematype.js:1064:15)\n    at ObjectId.castForQuery (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/schema/objectid.js:198:15)\n    at ObjectId.SchemaType.castForQueryWrapper (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/schematype.js:1021:15)\n    at cast (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/cast.js:269:32)\n    at Query.cast (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/query.js:3204:12)\n    at Query._castConditions (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/query.js:1203:10)\n    at Query._findOne (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/query.js:1410:8)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/kareem/index.js:250:8\n    at /Users/jackson/Desktop/Classcode/server/node_modules/kareem/index.js:23:7\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","timestamp":"2017-12-05T03:33:58.656Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T03:34:03.138Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T03:34:03.139Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T03:34:03.472Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T03:34:03.473Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T03:34:05.836Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T03:34:05.837Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T03:34:20.236Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T03:34:20.673Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T03:34:20.674Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T03:34:29.490Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T03:34:29.490Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T03:34:30.379Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T03:34:30.380Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T03:34:31.196Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T03:34:31.197Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T03:34:31.934Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T03:34:31.935Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T03:34:32.519Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T03:34:32.520Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T03:34:33.130Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T03:34:33.130Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T03:34:33.647Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T03:34:33.647Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T03:34:34.116Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T03:34:34.116Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T03:34:34.647Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T03:34:34.648Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T03:34:46.961Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T03:34:47.393Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T03:34:47.393Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T03:34:53.502Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T05:31:46.887Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T05:31:47.363Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T05:31:47.363Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T05:32:15.887Z"}
+{"level":"verbose","message":"Create a ToDo","timestamp":"2017-12-05T05:32:15.888Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T05:32:15.904Z"}
+{"level":"verbose","message":"Upload file for todo 5a262f5fe66c2a4746301091 and 5a1387757777b6358292e9db","timestamp":"2017-12-05T05:32:15.912Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T05:32:19.890Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T05:32:19.891Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T05:32:27.705Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T05:52:51.482Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T05:52:51.482Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T05:52:53.772Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T05:52:53.772Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T05:53:51.053Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T05:53:51.053Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T05:53:55.324Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T05:53:55.325Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T05:54:15.011Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T05:54:15.011Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T05:54:30.958Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T05:54:30.959Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T05:54:34.064Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T05:54:34.066Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T05:55:49.924Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T05:55:49.924Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T05:56:52.749Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T05:56:52.749Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T05:57:13.268Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T05:57:13.268Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T05:57:27.978Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T05:57:27.979Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T05:57:44.767Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T05:57:44.768Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T05:58:52.367Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T05:58:52.368Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T05:59:14.649Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T05:59:14.649Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T05:59:27.364Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T05:59:27.364Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T05:59:46.315Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T05:59:46.315Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T05:59:55.417Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T05:59:55.417Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:00:16.039Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:00:16.040Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:00:31.053Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:00:31.054Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:00:32.578Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:00:32.579Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:00:34.196Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:00:34.198Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:00:36.261Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:00:36.262Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:03:42.808Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:03:42.808Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:05:30.628Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:05:30.629Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:05:32.706Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:05:32.708Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:06:00.783Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:06:00.783Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:06:38.911Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:06:38.911Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:06:54.130Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:06:54.130Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:07:48.938Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:07:48.938Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:09:16.228Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:09:16.229Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:09:27.095Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:09:27.096Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:09:29.498Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:09:29.499Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:12:09.853Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:12:09.853Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:12:21.109Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:12:21.110Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:12:37.189Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:12:37.189Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:14:09.116Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:14:09.117Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:14:12.599Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:14:12.602Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:15:32.869Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:15:32.870Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:15:49.207Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:15:49.208Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:16:34.987Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:16:34.987Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:17:38.983Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:17:38.984Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:17:47.382Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:17:47.383Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:17:54.640Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:17:54.641Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:17:56.057Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:17:56.059Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:17:56.793Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:17:56.794Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:18:19.088Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:18:19.089Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:19:35.694Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:19:35.694Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:19:44.902Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:19:44.902Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:20:04.717Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:20:04.717Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:23:18.704Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:23:18.705Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:23:26.095Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:23:26.096Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:23:27.156Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:23:27.158Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:23:28.262Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a25bc752145343d3684c1d5","timestamp":"2017-12-05T06:23:28.263Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:23:28.811Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a25bc752145343d3684c1d5","timestamp":"2017-12-05T06:23:28.813Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:23:29.684Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a262f5fe66c2a4746301091","timestamp":"2017-12-05T06:23:29.685Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:23:30.286Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a262f5fe66c2a4746301091","timestamp":"2017-12-05T06:23:30.287Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:23:31.270Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:23:31.271Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:23:32.085Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:23:32.088Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:23:35.711Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:23:35.712Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:23:36.239Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:23:36.240Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:23:37.343Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a25bc752145343d3684c1d5","timestamp":"2017-12-05T06:23:37.344Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:23:37.749Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a25bc752145343d3684c1d5","timestamp":"2017-12-05T06:23:37.751Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:23:39.025Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a262f5fe66c2a4746301091","timestamp":"2017-12-05T06:23:39.026Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:23:40.001Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a25bc752145343d3684c1d5","timestamp":"2017-12-05T06:23:40.001Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:23:42.271Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:23:42.271Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:23:42.783Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:23:42.784Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:23:43.497Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a25bc752145343d3684c1d5","timestamp":"2017-12-05T06:23:43.499Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:23:44.401Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a262f5fe66c2a4746301091","timestamp":"2017-12-05T06:23:44.402Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:23:45.385Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a262f5fe66c2a4746301091","timestamp":"2017-12-05T06:23:45.389Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:23:46.074Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a262f5fe66c2a4746301091","timestamp":"2017-12-05T06:23:46.075Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:23:46.729Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a262f5fe66c2a4746301091","timestamp":"2017-12-05T06:23:46.730Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:23:47.684Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a262f5fe66c2a4746301091","timestamp":"2017-12-05T06:23:47.685Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:23:49.931Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a262f5fe66c2a4746301091","timestamp":"2017-12-05T06:23:49.932Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:23:51.583Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a25bc752145343d3684c1d5","timestamp":"2017-12-05T06:23:51.584Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:23:52.445Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:23:52.446Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:24:03.585Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:24:03.586Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:24:04.367Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a25bc752145343d3684c1d5","timestamp":"2017-12-05T06:24:04.368Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:24:05.249Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a262f5fe66c2a4746301091","timestamp":"2017-12-05T06:24:05.251Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:24:39.746Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:24:39.747Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:24:43.037Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:24:43.038Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:24:43.805Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:24:43.806Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:26:49.436Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:26:49.437Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:26:55.597Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:26:55.597Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:26:56.518Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:26:56.520Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:26:58.085Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:26:58.086Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:26:58.764Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:26:58.764Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:30:16.438Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:30:16.439Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:30:17.073Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:30:17.074Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:31:11.296Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:31:11.297Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:31:14.843Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:31:14.843Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:31:15.753Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:31:15.755Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:31:40.684Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:31:40.685Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:31:43.165Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a25bc752145343d3684c1d5","timestamp":"2017-12-05T06:31:43.166Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:31:44.263Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a25bc752145343d3684c1d5","timestamp":"2017-12-05T06:31:44.266Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:31:45.747Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:31:45.747Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:31:47.630Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:31:47.631Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:31:48.554Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:31:48.556Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:31:54.354Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a25bc752145343d3684c1d5","timestamp":"2017-12-05T06:31:54.355Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:32:54.579Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:32:54.580Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:33:03.362Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a25bc752145343d3684c1d5","timestamp":"2017-12-05T06:33:03.362Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:33:04.443Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a25bc752145343d3684c1d5","timestamp":"2017-12-05T06:33:04.444Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:33:05.323Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a25bc752145343d3684c1d5","timestamp":"2017-12-05T06:33:05.324Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:33:08.763Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:33:08.764Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:33:10.220Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:33:10.221Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:33:11.246Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a25bc752145343d3684c1d5","timestamp":"2017-12-05T06:33:11.247Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:33:11.758Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a25bc752145343d3684c1d5","timestamp":"2017-12-05T06:33:11.759Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:33:12.758Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a262f5fe66c2a4746301091","timestamp":"2017-12-05T06:33:12.759Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:33:13.423Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a262f5fe66c2a4746301091","timestamp":"2017-12-05T06:33:13.424Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:34:15.167Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:34:15.167Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:34:27.303Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:34:27.304Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:34:44.160Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:34:44.160Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:35:36.190Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:35:36.191Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:35:44.297Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:35:44.297Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:35:52.150Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:35:52.150Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:36:10.466Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:36:10.466Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:36:20.837Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:36:20.837Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:36:28.898Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:36:28.898Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:36:38.763Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:36:38.763Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:36:47.735Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:36:47.736Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:36:56.598Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:36:56.598Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:38:03.989Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T06:38:03.990Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:44:59.447Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a262f5fe66c2a4746301091","timestamp":"2017-12-05T06:44:59.449Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:45:00.505Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a262f5fe66c2a4746301091","timestamp":"2017-12-05T06:45:00.506Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:45:01.144Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a262f5fe66c2a4746301091","timestamp":"2017-12-05T06:45:01.146Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:45:01.944Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a262f5fe66c2a4746301091","timestamp":"2017-12-05T06:45:01.945Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:46:02.777Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:46:02.778Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T06:46:03.746Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-05T06:46:03.747Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T07:04:42.187Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-12-05T07:04:42.188Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T07:04:54.530Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T07:04:55.006Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T07:04:55.006Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T07:05:36.795Z"}
+{"level":"verbose","message":"Create a ToDo","timestamp":"2017-12-05T07:05:36.796Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T07:05:36.814Z"}
+{"level":"verbose","message":"Upload file for todo 5a264540e66c2a4746301093 and 5a26450ae66c2a4746301092","timestamp":"2017-12-05T07:05:36.819Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T07:05:40.492Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T07:05:40.492Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T07:05:40.901Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-05T07:05:40.901Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T07:05:52.104Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a264540e66c2a4746301093","timestamp":"2017-12-05T07:05:52.105Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T07:05:52.899Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a264540e66c2a4746301093","timestamp":"2017-12-05T07:05:52.900Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T07:05:53.624Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a264540e66c2a4746301093","timestamp":"2017-12-05T07:05:53.625Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T07:05:54.585Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a264540e66c2a4746301093","timestamp":"2017-12-05T07:05:54.586Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T07:05:55.128Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a264540e66c2a4746301093","timestamp":"2017-12-05T07:05:55.129Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T07:05:55.815Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a264540e66c2a4746301093","timestamp":"2017-12-05T07:05:55.816Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T07:05:56.899Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a264540e66c2a4746301093","timestamp":"2017-12-05T07:05:56.900Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T07:05:57.576Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a264540e66c2a4746301093","timestamp":"2017-12-05T07:05:57.578Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T07:06:00.621Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a264540e66c2a4746301093","timestamp":"2017-12-05T07:06:00.622Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T07:06:01.575Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a264540e66c2a4746301093","timestamp":"2017-12-05T07:06:01.575Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T07:06:02.301Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a264540e66c2a4746301093","timestamp":"2017-12-05T07:06:02.302Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T07:06:03.810Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a264540e66c2a4746301093","timestamp":"2017-12-05T07:06:03.811Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T07:06:04.534Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a264540e66c2a4746301093","timestamp":"2017-12-05T07:06:04.535Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T07:06:05.709Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a264540e66c2a4746301093","timestamp":"2017-12-05T07:06:05.711Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T07:06:06.269Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a264540e66c2a4746301093","timestamp":"2017-12-05T07:06:06.270Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-05T07:06:06.854Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a264540e66c2a4746301093","timestamp":"2017-12-05T07:06:06.855Z"}

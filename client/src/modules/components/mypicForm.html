@@ -1,0 +1,28 @@
+<template>
+    
+    <div class="container">
+            
+        <span><i click.trigger="back()" class="fa fa-arrow-left fa-lg" 	aria-hidden="true"></i></span>
+        <h1 style="font-family: chiller; text-align:center;"><b>Create a Gallery</b></h1>    
+            <form>
+            <div class="form-group topMargin">
+                  <label for="mypicInput" style="color:black;font-size:140%;"><b>Gallery Name*:</b></label>
+                  <input value.bind="myGalleryObj.gallery" type="text" class="form-control" id="mypicInput" aria-describedby="mypicHelp" 
+                    placeholder="Enter Gallery Name" style="color:black;font-size:120%;font-family: chiller;">
+                  <small id="mypicHelp" class="form-text text-muted" style="color:black;font-size:100%;font-family: chiller;">
+                    <b>A short name for the Gallery.</b></small>
+            </div>
+<div class="form-group">
+<label for="descInput" style="color:black;font-size:140%;"><b>Description:</b></label>
+<input value.bind="myGalleryObj.description" type="text" class="form-control" id="descInput" aria-describedby="descHelp" placeholder="Enter Description" style="color:black;font-size:120%;font-family: chiller;"><small id="descHelp" class="form-text text-muted" style="color:black;font-size:100%;font-family: chiller;"><b>A gallery description.</b></small>
+</div>
+
+    <div class="form-group">
+   <label for="dateCreatedInput" style="color:black;font-size:140%;">
+    <b>Date Created*:</b></label><flat-picker value.bind="myGalleryObj.dateCreated"></flat-picker><small id="dateCreatedHelp" class="form-text text-muted" style="color:black;font-size:100%;font-family: chiller;"><b>The gallery creation date.</b></small>
+</div>  
+<button click.trigger="saveGallery()" class="btn success"><b>Save</b></button>
+             
+         </form>
+    </div>  
+            </template>

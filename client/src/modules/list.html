@@ -1,0 +1,20 @@
+<template>
+
+		<div class="topnav" id="myTopnav">
+				<a class="active" href="#home">${message}</a>
+		</div>
+
+		
+		    
+		    <!--<compose show.bind="showList" view="./components/todoList.html"></compose>
+		    <compose show.bind="!showList" view="./components/todoForm.html"></compose>-->
+
+		<compose show.bind="showing == 'mypicList'" view="./components/mypicList.html"></compose>
+		<compose show.bind="showing == 'mypicForm'" view="./components/mypicForm.html"></compose>  
+		<compose show.bind="showing == 'photoList'" view="./components/photoList.html"></compose> 
+		<compose show.bind="showing == 'photoForm'" view="./components/photoForm.html"></compose> 
+		
+		</template>
+		
+
+

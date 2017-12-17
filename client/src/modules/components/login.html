@@ -1,0 +1,35 @@
+<template>
+     
+    
+    <div class="col-md-2">
+            <form id="form">
+    
+    <center><div class="card" style="width:700px">
+    <div class="card-body">
+                                    
+    <div class="form-group col">
+    <div class="col-md-4 col-lg-offset-10 col-xs-offset-9">  
+
+    <div class="form-group col">
+    <label for="email">Login</label>
+    <input value.bind="email" type="email" autofocus class="form-control"  id="email" placeholder="Enter email"></input>
+    </div>
+    <div class="form-group col">
+    <label for="password">Password</label>
+    <input value.bind="password" type="password" class="form-control" id="password" placeholder="Password"></input>
+    </div>
+    <button type="button" class="btn success" data-toggle="button" 
+             click.trigger="login()">Login</button>  
+    <a href="" class="text-muted" click.trigger="showRegister()">Register</a>
+    
+    <div id="errorMsg" class ="textcolor" innerhtml.bind="loginError"></div> 
+
+</form>
+</div>
+
+</center>
+
+</template>
+
+
+    

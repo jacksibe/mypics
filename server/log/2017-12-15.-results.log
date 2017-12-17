@@ -1,0 +1,644 @@
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-15T00:30:00.786Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-15T00:30:01.510Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-15T00:30:01.529Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-15T00:30:01.575Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T00:36:31.199Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T00:40:48.081Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T00:40:48.394Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T00:40:48.396Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T00:41:50.249Z"}
+{"level":"verbose","message":"Get user5a2f3238ac866110f8886a23","timestamp":"2017-12-15T00:41:50.249Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T00:42:18.049Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T00:42:28.665Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T00:42:28.665Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T00:43:48.954Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T00:44:37.413Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T00:44:37.589Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T00:44:37.589Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T00:44:51.283Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T00:44:51.417Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T00:44:51.418Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T00:44:57.807Z"}
+{"level":"verbose","message":"Get user5a2f3238ac866110f8886a23","timestamp":"2017-12-15T00:44:57.808Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T00:55:08.627Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T00:59:32.741Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T01:02:34.462Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T01:02:34.606Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T01:02:34.607Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T01:02:48.224Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T01:02:48.372Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T01:02:48.372Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T01:02:50.243Z"}
+{"level":"verbose","message":"Get user5a2f3238ac866110f8886a23","timestamp":"2017-12-15T01:02:50.243Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-15T02:46:36.302Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-15T02:46:37.005Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-15T02:46:37.017Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-15T02:46:37.053Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T02:47:58.695Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T02:47:58.938Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T02:47:58.939Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T02:50:12.197Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T02:50:12.358Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T02:50:12.359Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T02:50:34.884Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T02:50:34.885Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T02:50:39.153Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T02:50:39.153Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T03:08:05.904Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T03:08:05.905Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T03:08:09.502Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T03:08:09.502Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T03:08:52.563Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T03:08:52.711Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T03:08:52.711Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T03:10:52.844Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T03:10:52.844Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T03:11:39.647Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T03:11:39.648Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T03:12:05.587Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T03:12:05.587Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T03:12:23.894Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T03:12:23.894Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T03:12:32.706Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T03:12:32.842Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T03:12:32.842Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T03:13:00.689Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T03:13:00.689Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T03:13:12.414Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T03:13:12.414Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T03:20:52.560Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T03:20:52.560Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T03:20:55.699Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T03:20:55.699Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T03:22:29.725Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T03:22:29.725Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T03:22:32.459Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T03:22:32.460Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T03:22:44.493Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T03:22:44.494Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T03:23:32.101Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T03:23:32.101Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T03:23:47.992Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T03:23:48.131Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T03:23:48.132Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T03:28:14.976Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T03:28:14.977Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T03:28:20.663Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T03:28:20.664Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T03:28:53.422Z"}
+{"level":"verbose","message":"Create a Gallery","timestamp":"2017-12-15T03:28:53.423Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T03:28:56.047Z"}
+{"level":"verbose","message":"Get user5a3341756d7ee605d47a076c","timestamp":"2017-12-15T03:28:56.047Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T03:29:09.499Z"}
+{"level":"verbose","message":"Create a photo","timestamp":"2017-12-15T03:29:09.500Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T03:29:09.520Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T03:29:09.528Z"}
+{"level":"verbose","message":"Upload file for my gallery 5a3341856d7ee605d47a076d and 5a1387757777b6358292e9db","timestamp":"2017-12-15T03:29:09.575Z"}
+{"level":"error","message":"ReferenceError: todo is not defined\n    at mygallery.save.then.mygallery (/Users/jackson/Desktop/mypics/server/app/controllers/gallery.js:194:42)\n    at runCallback (timers.js:672:20)\n    at tryOnImmediate (timers.js:645:5)\n    at processImmediate [as _immediateCallback] (timers.js:617:5)\nFrom previous event:\n    at /Users/jackson/Desktop/mypics/server/app/controllers/gallery.js:193:22\n    at Query.<anonymous> (/Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/model.js:3919:16)\n    at /Users/jackson/Desktop/mypics/server/node_modules/kareem/index.js:273:21\n    at /Users/jackson/Desktop/mypics/server/node_modules/kareem/index.js:131:16\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","timestamp":"2017-12-15T03:29:09.599Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T03:29:16.642Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T03:29:16.643Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T03:29:19.382Z"}
+{"level":"verbose","message":"Get user5a3341756d7ee605d47a076c","timestamp":"2017-12-15T03:29:19.383Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T03:29:19.396Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T03:46:17.596Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T03:46:17.747Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T03:46:17.748Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-15T18:36:49.198Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-15T18:36:49.940Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-15T18:36:49.954Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-15T18:36:49.990Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:37:29.497Z"}
+{"level":"error","message":"","timestamp":"2017-12-15T18:37:29.668Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:38:18.052Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:38:18.229Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T18:38:18.230Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:38:22.636Z"}
+{"level":"verbose","message":"Get user5a3341756d7ee605d47a076c","timestamp":"2017-12-15T18:38:22.637Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:38:22.654Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:38:38.740Z"}
+{"level":"verbose","message":"Create a photo","timestamp":"2017-12-15T18:38:38.741Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:38:38.780Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:38:38.789Z"}
+{"level":"verbose","message":"Upload file for my gallery 5a3416aeb2ea750c74556aab and 5a1387757777b6358292e9db","timestamp":"2017-12-15T18:38:38.805Z"}
+{"level":"error","message":"ReferenceError: todo is not defined\n    at mygallery.save.then.mygallery (/Users/jackson/Desktop/mypics/server/app/controllers/gallery.js:194:42)\n    at runCallback (timers.js:672:20)\n    at tryOnImmediate (timers.js:645:5)\n    at processImmediate [as _immediateCallback] (timers.js:617:5)\nFrom previous event:\n    at /Users/jackson/Desktop/mypics/server/app/controllers/gallery.js:193:22\n    at Query.<anonymous> (/Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/model.js:3919:16)\n    at /Users/jackson/Desktop/mypics/server/node_modules/kareem/index.js:273:21\n    at /Users/jackson/Desktop/mypics/server/node_modules/kareem/index.js:131:16\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","timestamp":"2017-12-15T18:38:38.819Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:38:42.140Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T18:38:42.140Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:38:44.230Z"}
+{"level":"verbose","message":"Get user5a3341756d7ee605d47a076c","timestamp":"2017-12-15T18:38:44.231Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:38:44.246Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:38:44.249Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:40:55.940Z"}
+{"level":"verbose","message":"Delete pictures with id mypicid5a2f3238ac866110f8886a23","timestamp":"2017-12-15T18:40:55.940Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:41:18.537Z"}
+{"level":"verbose","message":"Get user5a3341756d7ee605d47a076c","timestamp":"2017-12-15T18:41:18.537Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-15T18:43:12.721Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-15T18:43:13.535Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-15T18:43:13.554Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-15T18:43:13.596Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:43:50.899Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T18:43:50.902Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:45:00.154Z"}
+{"level":"verbose","message":"Get user5a3341756d7ee605d47a076c","timestamp":"2017-12-15T18:45:00.155Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:45:00.177Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:45:00.185Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:45:32.848Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:45:33.075Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T18:45:33.076Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:45:37.025Z"}
+{"level":"verbose","message":"Get user5a3341756d7ee605d47a076c","timestamp":"2017-12-15T18:45:37.025Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:46:59.034Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T18:46:59.035Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:48:21.286Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T18:48:21.287Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:48:37.963Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T18:48:37.963Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:48:45.853Z"}
+{"level":"verbose","message":"Get user5a3341756d7ee605d47a076c","timestamp":"2017-12-15T18:48:45.854Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:48:45.873Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:48:45.874Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:49:24.571Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T18:49:24.571Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:50:15.289Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T18:50:15.289Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:50:20.116Z"}
+{"level":"verbose","message":"Get user5a3341756d7ee605d47a076c","timestamp":"2017-12-15T18:50:20.117Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:50:20.133Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:50:20.136Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:52:56.540Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:52:56.686Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T18:52:56.687Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:52:58.142Z"}
+{"level":"verbose","message":"Get user5a3341756d7ee605d47a076c","timestamp":"2017-12-15T18:52:58.143Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T18:53:58.770Z"}
+{"level":"verbose","message":"Get user5a3341756d7ee605d47a076c","timestamp":"2017-12-15T18:53:58.770Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-15T18:59:04.702Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-15T18:59:05.471Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-15T18:59:05.487Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-15T18:59:05.549Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:00:22.521Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T19:00:22.524Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:01:50.802Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T19:01:50.803Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:01:52.263Z"}
+{"level":"verbose","message":"Get user5a3341756d7ee605d47a076c","timestamp":"2017-12-15T19:01:52.263Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:01:52.285Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:01:52.289Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:03:16.726Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T19:03:16.727Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:03:18.716Z"}
+{"level":"verbose","message":"Get user5a3341756d7ee605d47a076c","timestamp":"2017-12-15T19:03:18.716Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:03:18.735Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:03:18.740Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:03:26.869Z"}
+{"level":"verbose","message":"Update photos with id mygalleryid5a3341856d7ee605d47a076d","timestamp":"2017-12-15T19:03:26.917Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:03:47.773Z"}
+{"level":"verbose","message":"Get user5a3341756d7ee605d47a076c","timestamp":"2017-12-15T19:03:47.773Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:10:34.507Z"}
+{"level":"verbose","message":"Get user5a3341756d7ee605d47a076c","timestamp":"2017-12-15T19:10:34.507Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:10:43.260Z"}
+{"level":"verbose","message":"Update photos with id mygalleryid5a3341856d7ee605d47a076d","timestamp":"2017-12-15T19:10:43.261Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:16:34.742Z"}
+{"level":"verbose","message":"Create a Gallery","timestamp":"2017-12-15T19:16:34.743Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:16:36.728Z"}
+{"level":"verbose","message":"Get user5a341f92f50d260d1e37762a","timestamp":"2017-12-15T19:16:36.728Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:17:28.021Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:17:42.235Z"}
+{"level":"verbose","message":"Get user","timestamp":"2017-12-15T19:17:42.236Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-15T19:27:47.415Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-15T19:27:48.257Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-15T19:27:48.274Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-15T19:27:48.329Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:29:25.910Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:29:25.970Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:29:32.144Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:29:32.148Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:29:33.267Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:29:35.854Z"}
+{"level":"verbose","message":"Get all users","timestamp":"2017-12-15T19:29:35.854Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:30:38.991Z"}
+{"level":"verbose","message":"Create a photo","timestamp":"2017-12-15T19:30:39.033Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:31:09.943Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:31:15.861Z"}
+{"level":"verbose","message":"Get user5a3422df8509300dd485db34","timestamp":"2017-12-15T19:31:15.862Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:31:55.976Z"}
+{"level":"verbose","message":"Get user","timestamp":"2017-12-15T19:31:55.977Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:32:14.791Z"}
+{"level":"verbose","message":"Get user5a3422df8509300dd485db34","timestamp":"2017-12-15T19:32:14.791Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:35:12.106Z"}
+{"level":"verbose","message":"Get user5a1387757777b6358292e9db","timestamp":"2017-12-15T19:35:12.106Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-15T19:37:21.528Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-15T19:37:22.269Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-15T19:37:22.283Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-15T19:37:22.318Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:37:23.245Z"}
+{"level":"verbose","message":"Get user5a1387757777b6358292e9db","timestamp":"2017-12-15T19:37:23.248Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:38:24.966Z"}
+{"level":"verbose","message":"Update photos with id mygalleryid5a3422df8509300dd485db34","timestamp":"2017-12-15T19:38:25.010Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:38:35.240Z"}
+{"level":"verbose","message":"Get user5a1387757777b6358292e9db","timestamp":"2017-12-15T19:38:35.241Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:39:52.736Z"}
+{"level":"verbose","message":"Delete gallery with id mygalleryid5a3422df8509300dd485db34","timestamp":"2017-12-15T19:39:52.738Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T19:40:15.029Z"}
+{"level":"verbose","message":"Get user5a1387757777b6358292e9db","timestamp":"2017-12-15T19:40:15.029Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:33:43.447Z"}
+{"level":"verbose","message":"Get all users","timestamp":"2017-12-15T20:33:43.449Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:33:44.507Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:33:44.514Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:34:06.147Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:34:52.687Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:37:36.427Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:37:36.585Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T20:37:36.585Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:37:42.812Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T20:37:42.812Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:39:31.133Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T20:39:31.134Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:39:52.687Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T20:39:52.688Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:40:04.978Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T20:40:04.978Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:40:09.661Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T20:40:09.663Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:40:25.895Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T20:40:25.895Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:40:26.210Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:40:26.378Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T20:40:26.378Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:42:32.318Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:44:48.639Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:46:36.427Z"}
+{"level":"verbose","message":"Get user5a1387757777b6358292e9db","timestamp":"2017-12-15T20:46:36.427Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:47:13.600Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:47:13.778Z"}
+{"level":"verbose","message":"Get user5a1387757777b6358292e9db","timestamp":"2017-12-15T20:47:13.779Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:48:44.260Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:48:44.461Z"}
+{"level":"verbose","message":"Get user5a1387757777b6358292e9db","timestamp":"2017-12-15T20:48:44.462Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:49:00.067Z"}
+{"level":"verbose","message":"Create a Gallery","timestamp":"2017-12-15T20:49:00.069Z"}
+{"level":"error","message":"ValidationError: mypic: Path `mypic` is required.\n    at MongooseError.ValidationError (/Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/error/validation.js:28:11)\n    at model.Document.invalidate (/Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/document.js:1636:32)\n    at /Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/document.js:1508:17\n    at validate (/Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/schematype.js:760:7)\n    at /Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/schematype.js:805:11\n    at Array.forEach (native)\n    at SchemaString.SchemaType.doValidate (/Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/schematype.js:765:19)\n    at /Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/document.js:1506:9\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)\nFrom previous event:\n    at model.wrappedPointCut [as save] (/Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/services/model/applyHooks.js:131:23)\n    at /Users/jackson/Desktop/mypics/server/app/controllers/mypics.js:69:14\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:47:12)\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:317:13)\n    at /Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:275:10)\n    at /Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:635:15\n    at next (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:260:14)\n    at Function.handle (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:174:3)","timestamp":"2017-12-15T20:49:00.098Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:49:59.041Z"}
+{"level":"verbose","message":"Get user5a1387757777b6358292e9db","timestamp":"2017-12-15T20:49:59.041Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:50:07.905Z"}
+{"level":"verbose","message":"Get user5a1387757777b6358292e9db","timestamp":"2017-12-15T20:50:07.905Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:51:22.439Z"}
+{"level":"verbose","message":"Get user5a1387757777b6358292e9db","timestamp":"2017-12-15T20:51:22.440Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:52:29.792Z"}
+{"level":"verbose","message":"Get user5a1387757777b6358292e9db","timestamp":"2017-12-15T20:52:29.793Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:52:47.816Z"}
+{"level":"verbose","message":"Get user5a1387757777b6358292e9db","timestamp":"2017-12-15T20:52:47.817Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:53:35.990Z"}
+{"level":"verbose","message":"Get user5a1387757777b6358292e9db","timestamp":"2017-12-15T20:53:35.990Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:54:25.666Z"}
+{"level":"verbose","message":"Get user5a1387757777b6358292e9db","timestamp":"2017-12-15T20:54:25.666Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:54:37.984Z"}
+{"level":"verbose","message":"Get user5a1387757777b6358292e9db","timestamp":"2017-12-15T20:54:37.984Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:54:42.651Z"}
+{"level":"verbose","message":"Get user5a1387757777b6358292e9db","timestamp":"2017-12-15T20:54:42.651Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:54:50.394Z"}
+{"level":"verbose","message":"Create a photo","timestamp":"2017-12-15T20:54:50.395Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:55:44.805Z"}
+{"level":"verbose","message":"Get user5a1387757777b6358292e9db","timestamp":"2017-12-15T20:55:44.806Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:59:02.669Z"}
+{"level":"verbose","message":"Get user5a1387757777b6358292e9db","timestamp":"2017-12-15T20:59:02.669Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T20:59:43.767Z"}
+{"level":"verbose","message":"Get user5a1387757777b6358292e9db","timestamp":"2017-12-15T20:59:43.767Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:00:07.199Z"}
+{"level":"verbose","message":"Get user5a1387757777b6358292e9db","timestamp":"2017-12-15T21:00:07.199Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:00:34.356Z"}
+{"level":"verbose","message":"Create a photo","timestamp":"2017-12-15T21:00:34.356Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:01:23.730Z"}
+{"level":"verbose","message":"Get user5a1387757777b6358292e9db","timestamp":"2017-12-15T21:01:23.732Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:02:58.715Z"}
+{"level":"verbose","message":"Get user5a1387757777b6358292e9db","timestamp":"2017-12-15T21:02:58.716Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:03:15.436Z"}
+{"level":"verbose","message":"Get user5a1387757777b6358292e9db","timestamp":"2017-12-15T21:03:15.436Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:03:42.235Z"}
+{"level":"verbose","message":"Get user5a1387757777b6358292e9db","timestamp":"2017-12-15T21:03:42.235Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:04:04.307Z"}
+{"level":"verbose","message":"Get user5a1387757777b6358292e9db","timestamp":"2017-12-15T21:04:04.308Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-15T21:06:21.730Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-15T21:06:22.635Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-15T21:06:22.649Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-15T21:06:22.700Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:06:26.351Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T21:06:26.354Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:07:05.673Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:07:11.531Z"}
+{"level":"verbose","message":"Get all users","timestamp":"2017-12-15T21:07:11.532Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:08:19.832Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T21:08:19.833Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:08:35.467Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T21:08:35.467Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:08:45.956Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T21:08:45.957Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:09:05.710Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T21:09:05.713Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:10:14.279Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T21:10:14.280Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:12:18.626Z"}
+{"level":"verbose","message":"Create a photo","timestamp":"2017-12-15T21:12:18.673Z"}
+{"level":"error","message":"ValidationError: userId: Path `userId` is required.\n    at MongooseError.ValidationError (/Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/error/validation.js:28:11)\n    at model.Document.invalidate (/Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/document.js:1636:32)\n    at /Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/document.js:1508:17\n    at validate (/Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/schematype.js:760:7)\n    at /Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/schematype.js:805:11\n    at Array.forEach (native)\n    at ObjectId.SchemaType.doValidate (/Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/schematype.js:765:19)\n    at /Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/document.js:1506:9\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)\nFrom previous event:\n    at model.wrappedPointCut [as save] (/Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/services/model/applyHooks.js:131:23)\n    at /Users/jackson/Desktop/mypics/server/app/controllers/gallery.js:108:18\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:47:12)\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:317:13)\n    at /Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:275:10)\n    at urlencodedParser (/Users/jackson/Desktop/mypics/server/node_modules/body-parser/lib/types/urlencoded.js:82:7)\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:317:13)","timestamp":"2017-12-15T21:12:18.687Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:13:35.996Z"}
+{"level":"verbose","message":"Create a photo","timestamp":"2017-12-15T21:13:35.998Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:14:04.009Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T21:14:04.009Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:14:12.687Z"}
+{"level":"verbose","message":"Create a photo","timestamp":"2017-12-15T21:14:12.689Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:14:23.502Z"}
+{"level":"verbose","message":"Create a photo","timestamp":"2017-12-15T21:14:23.503Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:16:02.828Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T21:16:02.829Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:17:02.432Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T21:17:02.434Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:17:52.302Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T21:17:52.302Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:18:07.327Z"}
+{"level":"verbose","message":"Update photos with id mygalleryid5a34369a7f00430e004811d2","timestamp":"2017-12-15T21:18:07.331Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-15T21:18:38.882Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-15T21:18:39.664Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-15T21:18:39.678Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-15T21:18:39.718Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:18:47.687Z"}
+{"level":"verbose","message":"Update photos with id mygalleryid5a34369a7f00430e004811d2","timestamp":"2017-12-15T21:18:47.739Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:18:52.094Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T21:18:52.095Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-15T21:19:23.390Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-15T21:19:24.191Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-15T21:19:24.223Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-15T21:19:24.323Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:19:43.438Z"}
+{"level":"verbose","message":"Update photos with id mygalleryid5a34369a7f00430e004811d2","timestamp":"2017-12-15T21:19:43.492Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-15T21:20:15.851Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-15T21:20:16.612Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-15T21:20:16.625Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-15T21:20:16.659Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:20:20.919Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:20:21.186Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T21:20:21.187Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-15T21:21:38.938Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-15T21:21:39.758Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-15T21:21:39.774Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-15T21:21:39.825Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:21:50.947Z"}
+{"level":"verbose","message":"Update photos with id mygalleryid5a34369a7f00430e004811d2","timestamp":"2017-12-15T21:21:51.004Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:25:43.600Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T21:25:43.602Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:25:44.718Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T21:25:44.719Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:30:08.551Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T21:30:08.551Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-15T21:34:00.060Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-15T21:34:00.968Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-15T21:34:00.984Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-15T21:34:01.050Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-15T21:34:23.759Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-15T21:34:24.520Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-15T21:34:24.533Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-15T21:34:24.569Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-15T21:35:17.035Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-15T21:35:17.261Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-15T21:35:17.273Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-15T21:35:17.314Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:35:19.246Z"}
+{"level":"verbose","message":"Delete gallery with id mygalleryid5a343b2f7ac8960fc362db82","timestamp":"2017-12-15T21:35:19.248Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:35:20.386Z"}
+{"level":"verbose","message":"Delete gallery with id mygalleryid5a343b247ac8960fc362db81","timestamp":"2017-12-15T21:35:20.387Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:35:21.527Z"}
+{"level":"verbose","message":"Delete gallery with id mygalleryid5a343aff7ac8960fc362db80","timestamp":"2017-12-15T21:35:21.528Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:35:41.220Z"}
+{"level":"verbose","message":"Create a photo","timestamp":"2017-12-15T21:35:41.274Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-15T21:36:26.495Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-15T21:36:26.691Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-15T21:36:26.703Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-15T21:36:26.732Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:36:54.739Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T21:36:54.743Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:37:04.356Z"}
+{"level":"verbose","message":"Update photos with id mygalleryid5a34402de01bd410ebe0f74b","timestamp":"2017-12-15T21:37:04.405Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-15T21:41:19.606Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-15T21:41:20.392Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-15T21:41:20.410Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-15T21:41:20.461Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-15T21:41:38.821Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-15T21:41:39.048Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-15T21:41:39.062Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-15T21:41:39.106Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-15T21:42:45.679Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-15T21:42:46.210Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-15T21:42:46.271Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-15T21:42:46.340Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T21:58:38.028Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T21:58:38.031Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T22:06:35.604Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-15T22:07:17.613Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-15T22:07:18.447Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-15T22:07:18.466Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-15T22:07:18.520Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T22:07:25.841Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T22:08:44.657Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T22:08:44.831Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T22:08:44.833Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T22:12:12.841Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T22:12:12.842Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T22:14:38.278Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T22:14:38.279Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T22:17:27.012Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T22:17:27.012Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T22:32:59.522Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T22:32:59.522Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T22:36:54.059Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T22:36:54.059Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T22:37:33.289Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T22:37:33.291Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T22:39:05.883Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T22:39:05.883Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T22:40:10.513Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T22:40:10.513Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T22:41:01.893Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T22:41:01.894Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T22:45:36.653Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T22:45:36.654Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T22:48:07.000Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T22:48:07.000Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T22:48:15.652Z"}
+{"level":"verbose","message":"Create a Gallery","timestamp":"2017-12-15T22:48:15.655Z"}
+{"level":"error","message":"ValidationError: galleryId: Path `galleryId` is required.\n    at MongooseError.ValidationError (/Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/error/validation.js:28:11)\n    at model.Document.invalidate (/Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/document.js:1636:32)\n    at /Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/document.js:1508:17\n    at validate (/Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/schematype.js:760:7)\n    at /Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/schematype.js:805:11\n    at Array.forEach (native)\n    at ObjectId.SchemaType.doValidate (/Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/schematype.js:765:19)\n    at /Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/document.js:1506:9\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)\nFrom previous event:\n    at model.wrappedPointCut [as save] (/Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/services/model/applyHooks.js:131:23)\n    at /Users/jackson/Desktop/mypics/server/app/controllers/mypics.js:71:14\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:47:12)\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:317:13)\n    at /Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:275:10)\n    at /Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:635:15\n    at next (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:260:14)\n    at Function.handle (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:174:3)","timestamp":"2017-12-15T22:48:15.678Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T22:48:15.713Z"}
+{"level":"verbose","message":"Upload file for my gallery undefined and undefined","timestamp":"2017-12-15T22:48:15.763Z"}
+{"level":"error","message":"ReferenceError: Mygallery is not defined\n    at /Users/jackson/Desktop/mypics/server/app/controllers/mypics.js:100:9\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/route.js:137:13)\n    at Immediate.<anonymous> (/Users/jackson/Desktop/mypics/server/node_modules/multer/lib/make-middleware.js:53:37)\n    at runCallback (timers.js:676:20)\n    at tryOnImmediate (timers.js:645:5)\n    at processImmediate [as _immediateCallback] (timers.js:617:5)","timestamp":"2017-12-15T22:48:15.766Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T22:49:04.027Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T22:49:04.027Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T22:49:38.844Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T22:49:38.845Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T22:49:49.900Z"}
+{"level":"verbose","message":"Create a Gallery","timestamp":"2017-12-15T22:49:49.901Z"}
+{"level":"error","message":"ValidationError: galleryId: Path `galleryId` is required.\n    at MongooseError.ValidationError (/Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/error/validation.js:28:11)\n    at model.Document.invalidate (/Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/document.js:1636:32)\n    at /Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/document.js:1508:17\n    at validate (/Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/schematype.js:760:7)\n    at /Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/schematype.js:805:11\n    at Array.forEach (native)\n    at ObjectId.SchemaType.doValidate (/Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/schematype.js:765:19)\n    at /Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/document.js:1506:9\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)\nFrom previous event:\n    at model.wrappedPointCut [as save] (/Users/jackson/Desktop/mypics/server/node_modules/mongoose/lib/services/model/applyHooks.js:131:23)\n    at /Users/jackson/Desktop/mypics/server/app/controllers/mypics.js:71:14\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:47:12)\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:317:13)\n    at /Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:275:10)\n    at /Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:635:15\n    at next (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:260:14)\n    at Function.handle (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/index.js:174:3)","timestamp":"2017-12-15T22:49:49.912Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T22:49:49.940Z"}
+{"level":"verbose","message":"Upload file for my gallery undefined and undefined","timestamp":"2017-12-15T22:49:49.975Z"}
+{"level":"error","message":"ReferenceError: Mygallery is not defined\n    at /Users/jackson/Desktop/mypics/server/app/controllers/mypics.js:100:9\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/route.js:137:13)\n    at Immediate.<anonymous> (/Users/jackson/Desktop/mypics/server/node_modules/multer/lib/make-middleware.js:53:37)\n    at runCallback (timers.js:676:20)\n    at tryOnImmediate (timers.js:645:5)\n    at processImmediate [as _immediateCallback] (timers.js:617:5)","timestamp":"2017-12-15T22:49:49.975Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T22:52:43.104Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T22:52:43.104Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T22:52:54.554Z"}
+{"level":"verbose","message":"Create a Gallery","timestamp":"2017-12-15T22:52:54.556Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T22:52:54.605Z"}
+{"level":"verbose","message":"Upload file for my gallery 5a34524659a48211b4ade0fe and undefined","timestamp":"2017-12-15T22:52:54.632Z"}
+{"level":"error","message":"ReferenceError: Mygallery is not defined\n    at /Users/jackson/Desktop/mypics/server/app/controllers/mypics.js:100:9\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/route.js:137:13)\n    at Immediate.<anonymous> (/Users/jackson/Desktop/mypics/server/node_modules/multer/lib/make-middleware.js:53:37)\n    at runCallback (timers.js:676:20)\n    at tryOnImmediate (timers.js:645:5)\n    at processImmediate [as _immediateCallback] (timers.js:617:5)","timestamp":"2017-12-15T22:52:54.633Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T22:54:58.495Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T22:55:02.441Z"}
+{"level":"verbose","message":"Get user","timestamp":"2017-12-15T22:55:02.442Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T22:55:58.198Z"}
+{"level":"verbose","message":"Getting gallery for user:5a34524659a48211b4ade0fe","timestamp":"2017-12-15T22:55:58.198Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T22:56:15.902Z"}
+{"level":"verbose","message":"Getting gallery for user:5a34524659a48211b4ade0fe","timestamp":"2017-12-15T22:56:15.902Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T22:56:46.278Z"}
+{"level":"verbose","message":"Getting gallery for user:5a34524659a48211b4ade0fe","timestamp":"2017-12-15T22:56:46.278Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T22:57:22.876Z"}
+{"level":"verbose","message":"Getting gallery for user:5a34524659a48211b4ade0fe","timestamp":"2017-12-15T22:57:22.876Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T22:57:37.090Z"}
+{"level":"verbose","message":"Get all users","timestamp":"2017-12-15T22:57:37.091Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T22:57:47.688Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T22:57:47.688Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-15T22:59:38.340Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-15T22:59:39.142Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-15T22:59:39.157Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-15T22:59:39.200Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:00:09.394Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T23:00:09.399Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:04:27.521Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:04:27.523Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:04:54.792Z"}
+{"level":"verbose","message":"Create a Gallery","timestamp":"2017-12-15T23:04:54.847Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:04:54.892Z"}
+{"level":"verbose","message":"Upload file for my gallery 5a34369a7f00430e004811d2 and undefined","timestamp":"2017-12-15T23:04:54.907Z"}
+{"level":"error","message":"ReferenceError: Mygallery is not defined\n    at /Users/jackson/Desktop/mypics/server/app/controllers/mypics.js:100:9\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/jackson/Desktop/mypics/server/node_modules/express/lib/router/route.js:137:13)\n    at Immediate.<anonymous> (/Users/jackson/Desktop/mypics/server/node_modules/multer/lib/make-middleware.js:53:37)\n    at runCallback (timers.js:676:20)\n    at tryOnImmediate (timers.js:645:5)\n    at processImmediate [as _immediateCallback] (timers.js:617:5)","timestamp":"2017-12-15T23:04:54.908Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:05:03.885Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T23:05:03.886Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-15T23:07:13.564Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-15T23:07:14.259Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-15T23:07:14.279Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-15T23:07:14.330Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-15T23:08:10.788Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-15T23:08:11.011Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-15T23:08:11.028Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-15T23:08:11.091Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-15T23:08:56.700Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-15T23:08:56.961Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-15T23:08:56.972Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-15T23:08:57.003Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:09:09.701Z"}
+{"level":"verbose","message":"Create a Gallery","timestamp":"2017-12-15T23:09:09.751Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:09:09.808Z"}
+{"level":"verbose","message":"Upload file for my gallery undefined and undefined","timestamp":"2017-12-15T23:09:09.833Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:19:13.866Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:19:13.867Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:20:26.233Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:20:26.234Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:20:55.107Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:20:55.107Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:22:49.039Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:22:49.040Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:22:59.522Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:22:59.522Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:23:16.017Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:23:16.017Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:24:00.008Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:24:00.008Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:24:22.894Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:24:22.894Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:24:41.664Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:24:41.664Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-15T23:27:24.601Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-15T23:27:25.350Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-15T23:27:25.365Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-15T23:27:25.414Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-15T23:28:56.060Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-15T23:28:56.905Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-15T23:28:56.924Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-15T23:28:56.965Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:30:15.231Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:30:15.235Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:30:18.878Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:30:18.879Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:30:32.627Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:30:33.199Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:30:33.199Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:34:53.951Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:34:54.148Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:34:54.149Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:35:11.275Z"}
+{"level":"verbose","message":"Create a Gallery","timestamp":"2017-12-15T23:35:11.276Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:35:11.321Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:35:11.341Z"}
+{"level":"verbose","message":"Upload file for my gallery undefined and undefined","timestamp":"2017-12-15T23:35:11.411Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:35:19.909Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:35:19.910Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:39:03.477Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:39:03.477Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:39:45.207Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:39:45.207Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:41:09.387Z"}
+{"level":"verbose","message":"Create a Gallery","timestamp":"2017-12-15T23:41:09.389Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:41:09.418Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:41:09.438Z"}
+{"level":"verbose","message":"Upload file for my gallery undefined and undefined","timestamp":"2017-12-15T23:41:09.447Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:43:29.630Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:43:29.630Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:44:42.222Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:44:42.223Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:45:56.036Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:45:56.036Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:46:19.234Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T23:46:19.235Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:46:19.354Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:46:30.391Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:46:30.392Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:46:35.516Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:46:35.517Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:47:08.878Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:47:08.878Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:47:16.399Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:47:16.399Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:47:54.601Z"}
+{"level":"verbose","message":"Create a Gallery","timestamp":"2017-12-15T23:47:54.603Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:47:54.631Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:47:54.651Z"}
+{"level":"verbose","message":"Upload file for my gallery undefined and undefined","timestamp":"2017-12-15T23:47:54.656Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:48:33.120Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:48:33.121Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:50:55.266Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:50:55.267Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:50:56.853Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:50:56.854Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:52:58.250Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:52:58.250Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:53:26.905Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:53:26.906Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:53:42.470Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:53:42.471Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:55:12.035Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:55:12.037Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:55:41.727Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:55:41.727Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:56:47.249Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:56:47.249Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:56:55.381Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:56:55.381Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:57:12.377Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:57:12.378Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:57:14.116Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:57:14.116Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:58:27.395Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:58:27.396Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:58:47.986Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:58:47.987Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:58:49.340Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T23:58:49.341Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:58:49.370Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:59:09.034Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-15T23:59:09.034Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:59:10.672Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T23:59:10.672Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:59:10.694Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-15T23:59:30.328Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-15T23:59:30.328Z"}

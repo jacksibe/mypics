@@ -1,0 +1,359 @@
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T00:55:29.621Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-12-04T00:55:29.687Z"}
+{"level":"error","message":"WriteError({\"code\":11000,\"index\":0,\"errmsg\":\"E11000 duplicate key error collection: todo-dev.users index: email_1 dup key: { : \\\"jacksibe@gmail.com\\\" }\",\"op\":{\"firstName\":\"jackson\",\"lastName\":\"samuel\",\"email\":\"jacksibe@gmail.com\",\"password\":\"$2a$10$q.UG6.1gboYaHjv1RPjSReelOd/MKv3pN4quUlnko3CWROOAGS3Iu\",\"_id\":\"5a249d01f5c68029a35da17a\",\"Status\":true,\"dateregistered\":\"2017-12-04T00:55:29.690Z\",\"__v\":0}})\n    at Function.MongoError.create (/Users/jackson/Desktop/Classcode/server/node_modules/mongodb-core/lib/error.js:31:11)\n    at toError (/Users/jackson/Desktop/Classcode/server/node_modules/mongodb/lib/utils.js:139:22)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/mongodb/lib/collection.js:668:23\n    at handleCallback (/Users/jackson/Desktop/Classcode/server/node_modules/mongodb/lib/utils.js:120:56)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/mongodb/lib/bulk/unordered.js:465:9\n    at handleCallback (/Users/jackson/Desktop/Classcode/server/node_modules/mongodb/lib/utils.js:120:56)\n    at resultHandler (/Users/jackson/Desktop/Classcode/server/node_modules/mongodb/lib/bulk/unordered.js:413:5)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/mongodb-core/lib/connection/pool.js:469:18\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)\nFrom previous event:\n    at model.wrappedPointCut [as save] (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/services/model/applyHooks.js:131:23)\n    at /Users/jackson/Desktop/Classcode/server/app/controllers/users.js:53:10\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:47:12)\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:317:13)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:275:10)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:635:15\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:260:14)\n    at Function.handle (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:174:3)","timestamp":"2017-12-04T00:55:29.888Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T00:55:49.954Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T00:55:50.476Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T00:55:50.476Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T00:56:30.868Z"}
+{"level":"verbose","message":"Create a ToDo","timestamp":"2017-12-04T00:56:30.869Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T00:56:30.892Z"}
+{"level":"verbose","message":"Upload file for todo 5a249d3ef5c68029a35da17b and 5a1387757777b6358292e9db","timestamp":"2017-12-04T00:56:30.924Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T00:56:39.869Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a249d3ef5c68029a35da17b","timestamp":"2017-12-04T00:56:39.870Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T00:56:42.193Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a249d3ef5c68029a35da17b","timestamp":"2017-12-04T00:56:42.195Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T00:56:43.200Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a249d3ef5c68029a35da17b","timestamp":"2017-12-04T00:56:43.200Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T00:56:44.236Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a249d3ef5c68029a35da17b","timestamp":"2017-12-04T00:56:44.237Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T00:56:55.867Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a249d3ef5c68029a35da17b","timestamp":"2017-12-04T00:56:55.868Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T00:57:22.397Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T00:57:22.817Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T00:57:22.818Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T00:57:53.814Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a249d3ef5c68029a35da17b","timestamp":"2017-12-04T00:57:53.816Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T00:57:53.831Z"}
+{"level":"verbose","message":"Upload file for todo 5a249d3ef5c68029a35da17b and 5a1387757777b6358292e9db","timestamp":"2017-12-04T00:57:53.845Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T00:58:17.678Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a249d3ef5c68029a35da17b","timestamp":"2017-12-04T00:58:17.678Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T00:58:19.467Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a1c975243776a1cf694f7ce","timestamp":"2017-12-04T00:58:19.468Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T00:58:20.641Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a1c975243776a1cf694f7ce","timestamp":"2017-12-04T00:58:20.644Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T00:59:46.426Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T00:59:46.426Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T00:59:48.054Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T00:59:48.054Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T00:59:59.909Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T00:59:59.909Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T01:39:27.279Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T01:39:27.740Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T01:39:27.740Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T01:39:40.451Z"}
+{"level":"verbose","message":"Delete ToDo with id ToDoid5a249d3ef5c68029a35da17b","timestamp":"2017-12-04T01:39:40.452Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T01:40:24.568Z"}
+{"level":"verbose","message":"Create a ToDo","timestamp":"2017-12-04T01:40:24.569Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T01:40:24.584Z"}
+{"level":"verbose","message":"Upload file for todo 5a24a788f5c68029a35da17c and 5a1387757777b6358292e9db","timestamp":"2017-12-04T01:40:24.612Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T01:40:30.808Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T01:40:30.808Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T01:40:33.781Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T01:40:33.946Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T01:40:38.927Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T01:40:38.927Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T01:40:44.787Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24a788f5c68029a35da17c","timestamp":"2017-12-04T01:40:44.788Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T01:40:58.238Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24a788f5c68029a35da17c","timestamp":"2017-12-04T01:40:58.239Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T01:41:13.163Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24a788f5c68029a35da17c","timestamp":"2017-12-04T01:41:13.164Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T01:41:22.679Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T01:41:22.680Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T01:41:44.575Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T01:41:45.019Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T01:41:45.020Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T01:44:00.389Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T01:45:54.584Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T01:45:54.585Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T01:45:59.469Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T01:45:59.469Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T02:32:55.530Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-12-04T02:32:55.531Z"}
+{"level":"error","message":"ValidationError: password: Path `password` is required., email: Path `email` is required., lastName: Path `lastName` is required., firstName: Path `firstName` is required.\n    at MongooseError.ValidationError (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/error/validation.js:28:11)\n    at model.Document.invalidate (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/document.js:1636:32)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/document.js:1508:17\n    at validate (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/schematype.js:760:7)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/schematype.js:805:11\n    at Array.forEach (native)\n    at SchemaString.SchemaType.doValidate (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/schematype.js:765:19)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/document.js:1506:9\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)\nFrom previous event:\n    at model.wrappedPointCut [as save] (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/services/model/applyHooks.js:131:23)\n    at /Users/jackson/Desktop/Classcode/server/app/controllers/users.js:53:10\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:47:12)\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:317:13)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:275:10)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:635:15\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:260:14)\n    at Function.handle (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:174:3)","timestamp":"2017-12-04T02:32:55.541Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T02:33:07.218Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T02:33:07.713Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T02:33:07.714Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T02:37:12.561Z"}
+{"level":"error","message":"","timestamp":"2017-12-04T02:37:12.564Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T02:37:35.700Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T02:38:09.567Z"}
+{"level":"error","message":"","timestamp":"2017-12-04T02:38:09.576Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T02:38:46.502Z"}
+{"level":"error","message":"","timestamp":"2017-12-04T02:38:46.506Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T02:39:10.752Z"}
+{"level":"error","message":"","timestamp":"2017-12-04T02:39:10.758Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T02:39:13.544Z"}
+{"level":"error","message":"","timestamp":"2017-12-04T02:39:13.551Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T03:09:21.581Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T03:09:25.100Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T03:10:46.555Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T03:10:47.030Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T03:10:47.030Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T03:11:39.797Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T03:11:40.237Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T03:11:40.238Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T03:12:25.991Z"}
+{"level":"verbose","message":"Create a ToDo","timestamp":"2017-12-04T03:12:25.992Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T03:12:26.007Z"}
+{"level":"verbose","message":"Upload file for todo 5a24bd19f5c68029a35da17e and 5a1387757777b6358292e9db","timestamp":"2017-12-04T03:12:26.012Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T03:12:30.144Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T03:12:30.145Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T03:12:30.462Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T03:12:30.463Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T03:12:31.736Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T03:12:31.737Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T03:31:44.601Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T03:31:44.601Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T03:31:55.947Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T03:39:32.143Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T03:41:49.772Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T03:48:43.285Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T03:48:44.690Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T03:48:46.364Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T03:48:48.022Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T03:49:03.120Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T03:49:03.618Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T03:49:03.618Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T03:53:55.936Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:22:49.233Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:22:52.284Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:24:51.513Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:24:52.668Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:31:15.694Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:31:16.537Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:31:50.973Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:31:56.876Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:33:41.368Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:33:43.061Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:34:07.199Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:36:16.575Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:36:23.661Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:37:21.239Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:38:14.238Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:38:33.432Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:38:34.361Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:38:58.870Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:39:13.301Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:39:35.467Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:39:57.843Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:40:22.728Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:44:47.245Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:45:11.190Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-12-04T04:45:11.190Z"}
+{"level":"error","message":"ValidationError: password: Path `password` is required., email: Path `email` is required., lastName: Path `lastName` is required., firstName: Path `firstName` is required.\n    at MongooseError.ValidationError (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/error/validation.js:28:11)\n    at model.Document.invalidate (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/document.js:1636:32)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/document.js:1508:17\n    at validate (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/schematype.js:760:7)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/schematype.js:805:11\n    at Array.forEach (native)\n    at SchemaString.SchemaType.doValidate (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/schematype.js:765:19)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/document.js:1506:9\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)\nFrom previous event:\n    at model.wrappedPointCut [as save] (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/services/model/applyHooks.js:131:23)\n    at /Users/jackson/Desktop/Classcode/server/app/controllers/users.js:53:10\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:47:12)\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:317:13)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:275:10)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:635:15\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:260:14)\n    at Function.handle (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:174:3)","timestamp":"2017-12-04T04:45:11.201Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:45:23.813Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:45:27.036Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-12-04T04:45:27.037Z"}
+{"level":"error","message":"ValidationError: password: Path `password` is required., email: Path `email` is required., lastName: Path `lastName` is required., firstName: Path `firstName` is required.\n    at MongooseError.ValidationError (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/error/validation.js:28:11)\n    at model.Document.invalidate (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/document.js:1636:32)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/document.js:1508:17\n    at validate (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/schematype.js:760:7)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/schematype.js:805:11\n    at Array.forEach (native)\n    at SchemaString.SchemaType.doValidate (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/schematype.js:765:19)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/document.js:1506:9\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)\nFrom previous event:\n    at model.wrappedPointCut [as save] (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/services/model/applyHooks.js:131:23)\n    at /Users/jackson/Desktop/Classcode/server/app/controllers/users.js:53:10\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:47:12)\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:317:13)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:275:10)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:635:15\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:260:14)\n    at Function.handle (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:174:3)","timestamp":"2017-12-04T04:45:27.041Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:45:30.410Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-12-04T04:45:30.411Z"}
+{"level":"error","message":"ValidationError: password: Path `password` is required., email: Path `email` is required., lastName: Path `lastName` is required., firstName: Path `firstName` is required.\n    at MongooseError.ValidationError (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/error/validation.js:28:11)\n    at model.Document.invalidate (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/document.js:1636:32)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/document.js:1508:17\n    at validate (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/schematype.js:760:7)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/schematype.js:805:11\n    at Array.forEach (native)\n    at SchemaString.SchemaType.doValidate (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/schematype.js:765:19)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/document.js:1506:9\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)\nFrom previous event:\n    at model.wrappedPointCut [as save] (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/services/model/applyHooks.js:131:23)\n    at /Users/jackson/Desktop/Classcode/server/app/controllers/users.js:53:10\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:47:12)\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:317:13)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:275:10)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:635:15\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:260:14)\n    at Function.handle (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:174:3)","timestamp":"2017-12-04T04:45:30.420Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:46:48.260Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-12-04T04:46:48.260Z"}
+{"level":"error","message":"ValidationError: password: Path `password` is required., email: Path `email` is required., lastName: Path `lastName` is required., firstName: Path `firstName` is required.\n    at MongooseError.ValidationError (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/error/validation.js:28:11)\n    at model.Document.invalidate (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/document.js:1636:32)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/document.js:1508:17\n    at validate (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/schematype.js:760:7)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/schematype.js:805:11\n    at Array.forEach (native)\n    at SchemaString.SchemaType.doValidate (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/schematype.js:765:19)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/document.js:1506:9\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)\nFrom previous event:\n    at model.wrappedPointCut [as save] (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/services/model/applyHooks.js:131:23)\n    at /Users/jackson/Desktop/Classcode/server/app/controllers/users.js:53:10\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:47:12)\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:317:13)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:275:10)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:635:15\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:260:14)\n    at Function.handle (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:174:3)","timestamp":"2017-12-04T04:46:48.264Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:46:54.168Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-12-04T04:46:54.169Z"}
+{"level":"error","message":"ValidationError: password: Path `password` is required., email: Path `email` is required., lastName: Path `lastName` is required., firstName: Path `firstName` is required.\n    at MongooseError.ValidationError (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/error/validation.js:28:11)\n    at model.Document.invalidate (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/document.js:1636:32)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/document.js:1508:17\n    at validate (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/schematype.js:760:7)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/schematype.js:805:11\n    at Array.forEach (native)\n    at SchemaString.SchemaType.doValidate (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/schematype.js:765:19)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/document.js:1506:9\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)\nFrom previous event:\n    at model.wrappedPointCut [as save] (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/services/model/applyHooks.js:131:23)\n    at /Users/jackson/Desktop/Classcode/server/app/controllers/users.js:53:10\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:47:12)\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:317:13)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:275:10)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:635:15\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:260:14)\n    at Function.handle (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:174:3)","timestamp":"2017-12-04T04:46:54.174Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:47:01.911Z"}
+{"level":"error","message":"","timestamp":"2017-12-04T04:47:01.919Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:47:02.836Z"}
+{"level":"error","message":"","timestamp":"2017-12-04T04:47:02.843Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:47:12.358Z"}
+{"level":"error","message":"","timestamp":"2017-12-04T04:47:12.362Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:47:31.724Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:47:32.193Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T04:47:32.194Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T04:47:47.573Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T04:47:47.574Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T05:13:10.653Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T05:13:22.799Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T05:13:23.237Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T05:13:23.237Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T05:13:41.695Z"}
+{"level":"verbose","message":"Delete ToDo with id ToDoid5a1c975243776a1cf694f7ce","timestamp":"2017-12-04T05:13:41.695Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T05:13:45.770Z"}
+{"level":"verbose","message":"Delete ToDo with id ToDoid5a24a788f5c68029a35da17c","timestamp":"2017-12-04T05:13:45.770Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T05:13:47.460Z"}
+{"level":"verbose","message":"Delete ToDo with id ToDoid5a24bd19f5c68029a35da17e","timestamp":"2017-12-04T05:13:47.460Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T05:13:58.860Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T05:13:58.861Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T05:14:13.670Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T05:14:14.105Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T05:14:14.105Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T05:14:35.410Z"}
+{"level":"verbose","message":"Create a ToDo","timestamp":"2017-12-04T05:14:35.411Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T05:14:35.427Z"}
+{"level":"verbose","message":"Upload file for todo 5a24d9bbf5c68029a35da184 and 5a1387757777b6358292e9db","timestamp":"2017-12-04T05:14:35.432Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T05:14:40.602Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T05:14:40.602Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T05:14:41.765Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T05:14:41.766Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T05:14:42.614Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T05:14:42.615Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T05:16:06.846Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T05:16:06.846Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T05:16:35.962Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T05:16:35.963Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-04T20:34:21.905Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-04T20:34:22.612Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-04T20:34:22.623Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-04T20:34:22.671Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T20:35:07.702Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T20:35:08.291Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T20:35:08.292Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T20:38:55.064Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T20:38:55.064Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T20:39:48.024Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T20:39:48.024Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T20:42:23.134Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T20:42:23.135Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T20:43:06.944Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T20:43:07.395Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T20:43:07.395Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T20:43:56.371Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T20:43:56.848Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T20:43:56.849Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:01:00.049Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:01:00.506Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T21:01:00.506Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:02:35.320Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T21:02:35.321Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:10:36.363Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:10:36.843Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T21:10:36.844Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:17:26.961Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:17:27.435Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T21:17:27.435Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:19:10.885Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T21:19:10.886Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:19:13.649Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T21:19:13.650Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:19:28.751Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:19:29.191Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T21:19:29.191Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:19:34.460Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:19:34.467Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:20:56.147Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T21:20:56.147Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:21:57.548Z"}
+{"level":"verbose","message":"Create a ToDo","timestamp":"2017-12-04T21:21:57.549Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:21:57.580Z"}
+{"level":"verbose","message":"Upload file for todo 5a25bc752145343d3684c1d5 and 5a1387757777b6358292e9db","timestamp":"2017-12-04T21:21:57.622Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:22:01.646Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T21:22:01.646Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:22:03.736Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-04T21:24:42.825Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-04T21:24:43.567Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-04T21:24:43.579Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-04T21:24:43.610Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:25:15.169Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T21:25:15.175Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:25:19.050Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:25:54.756Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T21:25:54.756Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:44:41.673Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-12-04T21:44:41.721Z"}
+{"level":"error","message":"ValidationError: password: Path `password` is required., email: Path `email` is required., lastName: Path `lastName` is required., firstName: Path `firstName` is required.\n    at MongooseError.ValidationError (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/error/validation.js:28:11)\n    at model.Document.invalidate (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/document.js:1636:32)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/document.js:1508:17\n    at validate (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/schematype.js:760:7)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/schematype.js:805:11\n    at Array.forEach (native)\n    at SchemaString.SchemaType.doValidate (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/schematype.js:765:19)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/document.js:1506:9\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)\nFrom previous event:\n    at model.wrappedPointCut [as save] (/Users/jackson/Desktop/Classcode/server/node_modules/mongoose/lib/services/model/applyHooks.js:131:23)\n    at /Users/jackson/Desktop/Classcode/server/app/controllers/users.js:53:10\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:47:12)\n    at Layer.handle [as handle_request] (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:317:13)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:275:10)\n    at /Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:635:15\n    at next (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:260:14)\n    at Function.handle (/Users/jackson/Desktop/Classcode/server/node_modules/express/lib/router/index.js:174:3)","timestamp":"2017-12-04T21:44:41.737Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:45:08.672Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-12-04T21:45:08.674Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:45:22.525Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:45:23.013Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T21:45:23.013Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:46:07.262Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:46:07.697Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T21:46:07.697Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:46:23.850Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:46:24.283Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T21:46:24.284Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-04T21:49:46.476Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-04T21:49:47.233Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-04T21:49:47.246Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-04T21:49:47.288Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:50:44.823Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-12-04T21:50:44.875Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:50:54.431Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:50:54.889Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T21:50:54.891Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-04T21:53:43.362Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-04T21:53:44.123Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-04T21:53:44.134Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-04T21:53:44.166Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:53:47.878Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T21:53:47.881Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:53:48.284Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T21:53:48.285Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:54:04.462Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:54:04.982Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T21:54:04.982Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:54:23.606Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:54:24.029Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T21:54:24.030Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-04T21:55:59.786Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-04T21:56:00.549Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-04T21:56:00.581Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-04T21:56:00.634Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:56:11.837Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:56:12.392Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T21:56:12.393Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:56:34.451Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-12-04T21:56:34.453Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:56:44.135Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:56:44.579Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T21:56:44.581Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-04T21:57:15.771Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-04T21:57:16.007Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-04T21:57:16.019Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-04T21:57:16.063Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:57:32.205Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:57:32.687Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T21:57:32.688Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:58:20.141Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-12-04T21:58:20.142Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:58:32.963Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:58:33.407Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T21:58:33.408Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T21:59:20.475Z"}
+{"level":"verbose","message":"Create a ToDo","timestamp":"2017-12-04T21:59:20.476Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T22:00:08.220Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T22:00:08.220Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T22:10:10.288Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T22:10:10.754Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T22:10:10.754Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T23:20:49.446Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T23:20:49.924Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T23:20:49.924Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T23:23:13.422Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T23:23:13.893Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T23:23:13.893Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T23:23:44.508Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T23:23:44.951Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T23:23:44.952Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T23:23:54.289Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T23:23:54.290Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T23:24:07.619Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T23:24:08.047Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T23:24:08.047Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T23:24:30.509Z"}
+{"level":"verbose","message":"Delete ToDo with id ToDoid5a25c5388b1f91400e5153bc","timestamp":"2017-12-04T23:24:30.510Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T23:25:02.126Z"}
+{"level":"verbose","message":"Create a ToDo","timestamp":"2017-12-04T23:25:02.127Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T23:25:02.140Z"}
+{"level":"verbose","message":"Upload file for todo 5a25d94e8b1f91400e5153bd and 5a25c4fc8b1f91400e5153bb","timestamp":"2017-12-04T23:25:02.157Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T23:25:05.165Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T23:25:05.166Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T23:25:07.141Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T23:27:13.288Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T23:27:13.289Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T23:37:49.649Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-04T23:43:55.179Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-04T23:43:55.875Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-04T23:43:55.887Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-04T23:43:55.936Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T23:44:17.155Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T23:44:17.696Z"}
+{"level":"verbose","message":"Get ToDos for a user","timestamp":"2017-12-04T23:44:17.697Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T23:44:25.967Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-04T23:44:25.969Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-04T23:44:35.546Z"}
+{"level":"verbose","message":"Update Todo with id ToDoid5a24d9bbf5c68029a35da184","timestamp":"2017-12-04T23:44:35.547Z"}
