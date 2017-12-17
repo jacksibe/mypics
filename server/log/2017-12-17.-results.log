@@ -657,3 +657,27 @@
 {"level":"info","message":"Request from ::1","timestamp":"2017-12-17T22:55:47.540Z"}
 {"level":"verbose","message":"Get Photos in a gallery for5a36f5ce8bc98a23280b2195","timestamp":"2017-12-17T22:55:47.541Z"}
 {"level":"info","message":"Request from ::1","timestamp":"2017-12-17T22:55:47.553Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-17T23:15:31.606Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-17T23:15:32.470Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-17T23:15:32.487Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-17T23:15:32.539Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T23:16:16.827Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T23:16:16.896Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T23:16:16.900Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T23:16:17.205Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T23:16:19.505Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T23:16:19.745Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-17T23:16:19.746Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T23:16:21.434Z"}
+{"level":"verbose","message":"Get Photos in a gallery for5a34369a7f00430e004811d2","timestamp":"2017-12-17T23:16:21.435Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T23:16:21.456Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T23:16:21.457Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T23:16:21.459Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T23:16:22.911Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T23:16:27.297Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T23:16:31.783Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T23:16:34.848Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T23:16:40.289Z"}
+{"level":"verbose","message":"Get Photos in a gallery for5a36f5ce8bc98a23280b2195","timestamp":"2017-12-17T23:16:40.290Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T23:16:40.305Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T23:16:41.310Z"}

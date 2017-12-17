@@ -25,7 +25,7 @@
                     </thead>
                     <tbody>
                         <tr class repeat.for = "mypics of mypics.mypicsArray" align="left">
-                                <td><a href="http://localhost:5000/uploads/${mypics.galleryId}/${mypics.file.filename}" target="_blank"><img src ="http://localhost:5000/uploads/${mypics.galleryId}/${mypics.file.filename}" style="width:Auto; height: 100px;"></a><br>
+                                <td><a href="uploads/${mypics.galleryId}/${mypics.file.filename}" target="_blank"><img src ="uploads/${mypics.galleryId}/${mypics.file.filename}" style="width:Auto; height: 100px;"></a><br>
                                     <i click.trigger="editPhotos(mypics)" class="fa fa-pencil rightMargin" aria-hidden="true"></i>
                                     <i click.trigger="deletePhotos(mypics)"class="fa fa-trash rightMargin" aria-hidden="true"></i>
                                 </td>   
