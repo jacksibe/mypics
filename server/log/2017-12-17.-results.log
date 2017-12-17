@@ -619,3 +619,41 @@
 {"level":"verbose","message":"Delete pictures with id mypicid5a36f44f8bc98a23280b2191","timestamp":"2017-12-17T22:50:33.230Z"}
 {"level":"info","message":"Request from ::1","timestamp":"2017-12-17T22:50:42.455Z"}
 {"level":"verbose","message":"Update Gallery with id mypicid5a36f45c8bc98a23280b2192","timestamp":"2017-12-17T22:50:42.462Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T22:54:41.072Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T22:54:41.260Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-17T22:54:41.261Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T22:54:42.726Z"}
+{"level":"verbose","message":"Get Photos in a gallery for5a34369a7f00430e004811d2","timestamp":"2017-12-17T22:54:42.726Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T22:54:42.755Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T22:54:42.758Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T22:54:42.760Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T22:54:42.761Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T22:54:42.762Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T22:54:45.353Z"}
+{"level":"verbose","message":"Delete pictures with id mypicid5a345d95c9a711145c7678dd","timestamp":"2017-12-17T22:54:45.353Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T22:54:50.969Z"}
+{"level":"verbose","message":"Update Gallery with id mypicid5a345f2ac9a711145c7678de","timestamp":"2017-12-17T22:54:50.970Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T22:54:56.260Z"}
+{"level":"verbose","message":"Delete pictures with id mypicid5a345f2ac9a711145c7678de","timestamp":"2017-12-17T22:54:56.260Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T22:55:10.244Z"}
+{"level":"verbose","message":"Create a photo","timestamp":"2017-12-17T22:55:10.246Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T22:55:12.870Z"}
+{"level":"verbose","message":"Get Photos in a gallery for5a36f5ce8bc98a23280b2195","timestamp":"2017-12-17T22:55:12.870Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T22:55:23.459Z"}
+{"level":"verbose","message":"Create a Gallery","timestamp":"2017-12-17T22:55:23.460Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T22:55:23.475Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T22:55:23.484Z"}
+{"level":"verbose","message":"Upload file for my gallery undefined and undefined","timestamp":"2017-12-17T22:55:23.541Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T22:55:25.910Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T22:55:31.223Z"}
+{"level":"verbose","message":"Getting gallery for user:5a1387757777b6358292e9db","timestamp":"2017-12-17T22:55:31.223Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T22:55:32.810Z"}
+{"level":"verbose","message":"Get Photos in a gallery for5a36f5ce8bc98a23280b2195","timestamp":"2017-12-17T22:55:32.810Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T22:55:44.343Z"}
+{"level":"verbose","message":"Create a Gallery","timestamp":"2017-12-17T22:55:44.344Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T22:55:44.363Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T22:55:44.372Z"}
+{"level":"verbose","message":"Upload file for my gallery undefined and undefined","timestamp":"2017-12-17T22:55:44.405Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T22:55:47.540Z"}
+{"level":"verbose","message":"Get Photos in a gallery for5a36f5ce8bc98a23280b2195","timestamp":"2017-12-17T22:55:47.541Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-17T22:55:47.553Z"}
